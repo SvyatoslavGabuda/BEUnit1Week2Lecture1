@@ -18,6 +18,7 @@ public class KmalLitro {
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			l.error(""+e);
 			l.error("ERRore");
 			
 		}
